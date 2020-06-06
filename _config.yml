@@ -2,7 +2,7 @@
 title: NC STATE
 email: ranbazh@ncsu.edu
 description: A passionate software developer.
-baseurl: "/homepage" # the subpath of your site, e.g. /blog
+baseurl: "aboutme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 513 Tartan Cir Apt 3
