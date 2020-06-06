@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Generic
+title: Work Experience
 description: Lorem ipsum dolor est
 image: assets/images/pic11.jpg
+show_tile: true
 nav-menu: true
 ---
 
