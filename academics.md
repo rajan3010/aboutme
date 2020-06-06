@@ -19,14 +19,14 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>NC State University</td>
-				<td style="vertical-align:bottom;horizontal-align:left"><img src="nc_state.png" height=70 width=70></td>
+				<td style="vertical-align:bottom;horizontal-align:left"><img src="{% link assets/images/nc_state.png %}" height=70 width=70></td>
 				<td>Master of Science</td>
 				<td>Electrical and Computer Engineering</td>
 				<td>3.93/4.00</td>
 			</tr>
 			<tr>
 				<td>Anna University</td>
-				<td style="vertical-align:bottom;horizontal-align:left"><img src="anna.png" height=70 width=70></td>
+				<td style="vertical-align:bottom;horizontal-align:left"><img src="{% link assets/images/anna.png %}" height=70 width=70></td>
 				<td>Bachelor of Engineering</td>
 				<td>Electronics and Communication Engineering</td>
 				<td>8.01/10.00</td>
