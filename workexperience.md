@@ -3,6 +3,7 @@ layout: post
 title: Work Experience
 show_tile: true
 nav-menu: true
+image: assets/images/workexp.jpg
 ---
 <div class="row">
 	<div class="9u 12u$(small)">
