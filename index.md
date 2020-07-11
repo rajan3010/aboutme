@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-A passionate software developer.
+A huge variety of academic and self-interest projects spanning over the domain of software development, computer vision, machine learning, deep learning and autonomous vehicles.
