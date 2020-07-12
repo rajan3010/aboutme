@@ -19,8 +19,16 @@ image: assets/images/courses.jpg
             <li><a href="#" class="button special">Mechatronics</a></li>	
         </ul>
       	<ul class="actions horizontal">
-            <li><a href="#" class="button special">Linear Algebra and Numerical Methods</a></li>
-            <li><a href="#" class="button special">Computing Techniques</a></li>
+      	    <li><a href="#" class="button special">Operating System Principles</a></li>
+      	    <li><a href="#" class="button special">Design and Analysis of Algorithms</a></li>
         </ul>  
+              	<ul class="actions horizontal">
+              	    <li><a href="#" class="button special">Embedded Systems Architecture</a></li>
+              	    <li><a href="#" class="button special">SQL for Data Science</a></li>
+                    <li><a href="#" class="button special">Linear Algebra and Numerical Methods</a></li>
+                </ul>  
+                <ul class="actions horizontal">
+                    <li><a href="#" class="button special">Computing Techniques</a></li>
+                </ul> 
 	</div>
 </div>
