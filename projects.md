@@ -15,7 +15,7 @@ show_tile: false
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="drowsiness.html" class="image">
 			<img src="assets/images/drowsiness_2.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -25,13 +25,13 @@ show_tile: false
 				</header>
 				<p>A machine vision system based on OpenCV to detect the drowsiness status of the driver and alert them with a sound alarm when it goes below a threshold</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="drowsiness.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="inpainting.html" class="image">
 			<img src="assets/images/inpainting.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -41,13 +41,13 @@ show_tile: false
 				</header>
 				<p>Incomplete patches in any facial portrait images where autocompleted in a plausible manner using trained Generative Adverserial Networks</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="inpainting.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="roadsign.html" class="image">
 			<img src="assets/images/road_detection.jpeg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -57,13 +57,13 @@ show_tile: false
 				</header>
 				<p>Road signs found on streets were recognized and classified using deep learning models.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="roadsign.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="viola.html" class="image">
 			<img src="assets/images/haar.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -73,13 +73,13 @@ show_tile: false
 				</header>
 				<p>Face detection algorithm performed using Haar classifiers and the performance enhanced using Adaboost algorithm</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="viola.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>	
 	<section>
-		<a href="generic.html" class="image">
+		<a href="leafwilt.html" class="image">
 			<img src="assets/images/soy_plant.jpeg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -89,13 +89,13 @@ show_tile: false
 				</header>
 				<p>The various stages of tugor loss or in simple terms leaf wilting, in soy plants was classified using neural netoworks. This project was part of a realtime research work.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="leafwilt.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>	
 	<section>
-    	<a href="generic.html" class="image">
+    	<a href="emmax.html" class="image">
     		<img src="assets/images/face_classification.png" alt="" data-position="25% 25%" />
     	</a>
     	<div class="content">
@@ -105,13 +105,13 @@ show_tile: false
     			</header>
     			<p>Face and Non-Face classification was done using generative models like Gaussian, Mixture of Gaussian, T Model and Factor Analysis and performance improved using EM Maximization algorithm</p>
     			<ul class="actions">
-    				<li><a href="generic.html" class="button">Learn more</a></li>
+    				<li><a href="emmax.html" class="button">Learn more</a></li>
     			</ul>
     		</div>
     	</div>
     </section>	
 	<section>
-    	<a href="generic.html" class="image">
+    	<a href="sift.html" class="image">
     		<img src="assets/images/sift.jpg" alt="" data-position="25% 25%" />
     	</a>
     	<div class="content">
@@ -121,13 +121,13 @@ show_tile: false
     			</header>
     			<p>SIFT keypoint feature extraction was done using Laplacian BLobs in python</p>
     			<ul class="actions">
-    				<li><a href="generic.html" class="button">Learn more</a></li>
+    				<li><a href="sift.html" class="button">Learn more</a></li>
     			</ul>
     		</div>
     	</div>
     </section>	
 	<section>
-    	<a href="generic.html" class="image">
+    	<a href="blending.html" class="image">
     		<img src="assets/images/image_blending.jpg" alt="" data-position="25% 25%" />
     	</a>
     	<div class="content">
@@ -137,13 +137,13 @@ show_tile: false
     			</header>
     			<p>Face portraits that were pre-aligned were merged/blended using pyramid blending algoirthm using OpenCV</p>
     			<ul class="actions">
-    				<li><a href="generic.html" class="button">Learn more</a></li>
+    				<li><a href="blending.html" class="button">Learn more</a></li>
     			</ul>
     		</div>
     	</div>
     </section>	
 	<section>
-    	<a href="generic.html" class="image">
+    	<a href="shortestroute.html" class="image">
     		<img src="assets/images/raod_map.jpg" alt="" data-position="25% 25%" />
     	</a>
     	<div class="content">
@@ -153,13 +153,13 @@ show_tile: false
     			</header>
     			<p>Shortest route between two cities(pixels) in a North Carolina map image was estimated using A* algorithm</p>
     			<ul class="actions">
-    				<li><a href="generic.html" class="button">Learn more</a></li>
+    				<li><a href="shortestroute.html" class="button">Learn more</a></li>
     			</ul>
     		</div>
     	</div>
     </section>
 	<section>
-    	<a href="generic.html" class="image">
+    	<a href="expertiza.html" class="image">
     		<img src="assets/images/expertiza.png" alt="" data-position="25% 25%" />
     	</a>
     	<div class="content">
@@ -169,13 +169,13 @@ show_tile: false
     			</header>
     			<p>Expertiza is a web application through which students can submit their assignments and peer-review learning objects. This feature was developed to assign mentors automatically to a team that has reached its team limit for a project</p>
     			<ul class="actions">
-    				<li><a href="generic.html" class="button">Learn more</a></li>
+    				<li><a href="expertiza.html" class="button">Learn more</a></li>
     			</ul>
     		</div>
     	</div>
     </section>	
 	<section>
-    	<a href="generic.html" class="image">
+    	<a href="ecommerce.html" class="image">
     		<img src="assets/images/e-commerce_2.png" alt="" data-position="25% 25%" />
     	</a>
     	<div class="content">
@@ -185,13 +185,13 @@ show_tile: false
     			</header>
     			<p>An E-Commerce grocery website developed using Ruby on Rails</p>
     			<ul class="actions">
-    				<li><a href="generic.html" class="button">Learn more</a></li>
+    				<li><a href="ecommerce.html" class="button">Learn more</a></li>
     			</ul>
     		</div>
     	</div>
     </section>
 	<section>
-    	<a href="generic.html" class="image">
+    	<a href="rubiks.html" class="image">
     		<img src="assets/images/rubiks_bot.jpg" alt="" data-position="25% 25%" />
     	</a>
     	<div class="content">
@@ -201,13 +201,13 @@ show_tile: false
     			</header>
     			<p>A fully autonomous DIY rubik's cube bot built using arduino and OpenCV</p>
     			<ul class="actions">
-    				<li><a href="generic.html" class="button">Learn more</a></li>
+    				<li><a href="rubiks.html" class="button">Learn more</a></li>
     			</ul>
     		</div>
     	</div>
     </section>	
 	<section>
-    	<a href="generic.html" class="image">
+    	<a href="hand.html" class="image">
     		<img src="assets/images/hand_detect.png" alt="" data-position="25% 25%" />
     	</a>
     	<div class="content">
@@ -217,13 +217,13 @@ show_tile: false
     			</header>
     			<p>Hand/ fingers were detected and number of fingers were estimamted to interface/interact with a hand bot to play hand cricket.</p>
     			<ul class="actions">
-    				<li><a href="generic.html" class="button">Learn more</a></li>
+    				<li><a href="hand.html" class="button">Learn more</a></li>
     			</ul>
     		</div>
     	</div>
     </section>	
 	<section>
-    	<a href="generic.html" class="image">
+    	<a href="chestdiscomfort.html" class="image">
     		<img src="assets/images/remote_ecg_2.png" alt="" data-position="25% 25%" />
     	</a>
     	<div class="content">
@@ -233,7 +233,7 @@ show_tile: false
     			</header>
     			<p>A remote and efficient ECG circuit was designed to transmit the signals directly to a nearby doctor through an app.</p>
     			<ul class="actions">
-    				<li><a href="generic.html" class="button">Learn more</a></li>
+    				<li><a href="chestdiscomfort.html" class="button">Learn more</a></li>
     			</ul>
     		</div>
     	</div>
