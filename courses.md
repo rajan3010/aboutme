@@ -81,7 +81,7 @@ image: assets/images/courses.jpg
 				<td>SQL for Data Science</td>
 				<td>UC Davis</td>
 				<td>July 2020</td>
-				<td></td>
+				<td><a href="https://www.coursera.org/account/accomplishments/certificate/JVEWCBZNJ47U">JVEWCBZNJ47U</a></td>
 			</tr>
 		</tbody>
 	</table>
