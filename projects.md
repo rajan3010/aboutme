@@ -15,8 +15,40 @@ show_tile: false
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="expensetrack.html" class="image">
+			<img src="assets/images/expense_tracking.jpg" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Expense Tracking App With Receipt Parsing(Jul '20)</h3>
+				</header>
+				<p>A simple expense tracking app using MERN stack integrated with receipt parsing using OCR.</p>
+				<ul class="actions">
+					<li><a href="expensetrack.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="weapon.html" class="image">
+			<img src="assets/images/weapon_detection.jpg" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Realtime Weapon Detection(Jun '20/ Jul '20)</h3>
+				</header>
+				<p>A custom object detection model trained with YOLOV3 to detect weapons from realtime video feeds. Also a REST API for the same to be access from other products/ software. </p>
+				<ul class="actions">
+					<li><a href="weapon.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="drowsiness.html" class="image">
-			<img src="assets/images/drowsiness_2.jpg" alt="" data-position="center center" />
+			<img src="assets/images/drowsiness_2.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">

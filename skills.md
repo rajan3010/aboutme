@@ -23,8 +23,8 @@ image: assets/images/skills.jpg
 		<ul class="actions horizontal">
 			<li><a href="#" class="button special">Rails</a></li>
 			<li><a href="#" class="button special">EmberJS</a></li>
-			<li><a href="#" class="button special">Apache Struts</a></li>
-		    <li><a href="#" class="button special">AngularJS</a></li>
+		    <li><a href="#" class="button special">React</a></li>
+		    <li><a href="#" class="button special">Node.js</a></li>		    
 		</ul>
 	</div>
 </div>
@@ -39,6 +39,7 @@ image: assets/images/skills.jpg
 	<h3>NOSQL DB</h3>
 			<ul class="actions horizontal">
     			<li><a href="#" class="button special">ElasticSearch</a></li>
+    			<li><a href="#" class="button special">MongoDB</a></li>
     		</ul>	
 	</div>
 </div>
@@ -71,7 +72,11 @@ image: assets/images/skills.jpg
 			<li><a href="#" class="button special">Eclipse</a></li>
 			<li><a href="#" class="button special">Idea</a></li>
 			<li><a href="#" class="button special">Pycharm</a></li>
+			<li><a href="#" class="button special">Visual Studio Code</a></li>			
 			<li><a href="#" class="button special">Spyder</a></li>
+		</ul>
+		<ul class="actions horizontal">
+			<li><a href="#" class="button special">RubyMine</a></li>
 			<li><a href="#" class="button special">Jupyter Notebook</a></li>	
 		</ul>
 	</div>
