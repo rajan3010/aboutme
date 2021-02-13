@@ -15,6 +15,54 @@ show_tile: false
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="xinu.html" class="image">
+			<img src="assets/images/Xinu_3.png" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Implementation and Enhancement of XINU Operating System</h3>
+				</header>
+				<p>Designing the XINU operating system and cleverly handling various setbacks in the process.</p>
+				<ul class="actions">
+					<li><a href="xinu.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="vaepointcloud.html" class="image">
+			<img src="assets/images/pointclouds.jpeg" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Feasibility of VAE based Feature Encoder in PointPilars for 3D Object Detection</h3>
+				</header>
+				<p>Checking the performance improvement and feasibility by replacing a conventional pointnet encoder in a pointpillars architecture with a variational auto encoder</p>
+				<ul class="actions">
+					<li><a href="vaepointcloud.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="gait.html" class="image">
+			<img src="assets/images/Human_gait.png" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Human Gait Prediction(from accelerometer and gyrometer signals) using Bayesian Networks(Nov '20)</h3>
+				</header>
+				<p>Predict the next gait of humans based on their previous steps from the accelerometer and gyrometer readings, using generative models and bayesian networks</p>
+				<ul class="actions">
+					<li><a href="gait.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="expensetrack.html" class="image">
 			<img src="assets/images/expense_tracking.jpg" alt="" data-position="top center" />
 		</a>

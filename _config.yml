@@ -5,7 +5,7 @@ description: I am passionate about software development and I am an AI/ML enthus
 baseurl: "/aboutme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 513 Tartan Cir Apt 3
+street_address: 2800 Brigadoon Dr Apt 23
 city: Raleigh
 state: NC
 zip_code: 27606
@@ -19,8 +19,8 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://github.com/rajan3010
+github_url: https://github.com/rajan3010
+gitlab_url: 
 googleplus_url:
 instagram_url:
 linkedin_url: https://www.linkedin.com/in/rajan-anbazhagan/

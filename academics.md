@@ -25,7 +25,7 @@ image: assets/images/academics.jpg
 				<td>Master of Science</td>
 				<td>Electrical and Computer Engineering</td>
 				<td>Aug 2019-May 2021</td>
-				<td>3.93/4.00</td>
+				<td>3.95/4.00</td>
 			</tr>
 			<tr>
 				<td>Anna University</td>
