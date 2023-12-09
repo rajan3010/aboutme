@@ -24,7 +24,7 @@ image: assets/images/workexp.jpg
 
 		<h4>Member of Technical Staff(Software Engineer)</h4>
 		<ul>
-			<li>Coordinated in enhancing alert generation module user interface from Apache Struts MVC (Java, JavaScript, JSP) framework to EmberJS(Ajax, CSS, JSON). Improved the back end framework thus resolving existing issues and reducing monthly customer issues by 56%</li>
+			<li>Coordinated testing in enhancing alert generation module user interface from Apache Struts MVC (Java, JavaScript, JSP) framework to EmberJS(Ajax, CSS, JSON). Improved the back end framework thus resolving existing issues and reducing monthly customer issues by 56%</li>
 			<li>Refactored SQL queries to simplify data retrieval from PostgreSQL and MySQL DBs. Included elasticsearch to index logs, thus decreasing heavy data retrieval time by 50%</li>
 			<li>Devised and developed a log forwarder API using multi-threading and socket programming(UDP/ TCP protocol) in core Java to forward syslogs to external servers, that was later used by five other teams for SIEM integration</li>
 			<li>Designed a ticketing tool integration feature for alerts, that could integrate tools like Service Desk Plus and Jira using REST API, which is one of the features that advanced us into Gartner's Quadrant</li>
