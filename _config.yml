@@ -1,9 +1,17 @@
 # site settings
 title: RAJAN ANBU
-description: I am passionate about software development and I am an AI/ML enthusiasist. I love to create things and I get excited while discovering anything related to robots or technology. I am adaptable and I love programming in different language (Also its my dream to build an intelligent software that could translate programs between different languages sometime in future). With a software development background and huge interest towards AI, I am currently pursuing my Masters at NC State to hone those skills.
+email: ranbazh@ncsu.edu
+description: I am passionate about software development. I love to create things and I get excited while discovering anything related to robots or technology. I am adaptable and I love programming in different language (Also its my dream to build an intelligent software that could translate programs between different languages sometime in future). With a software development background and huge interest towards AI, I am currently pursuing my Masters at NC State to hone those skills.
 baseurl: "/aboutme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
+street_address: 2800 Brigadoon Dr Apt 23
+city: Raleigh
+state: NC
+zip_code: 27606
+country: United States of America
+phone: (919) 931-3183
+
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
